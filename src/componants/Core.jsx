@@ -15,9 +15,9 @@ const Core = () => {
         slidesToScroll: 1
     };
     return (
-        <div className='core position-relative'>
+        <div className='core position-relative pb-lg-5'>
             <img className='position-absolute cloud w-100' src={cloud} alt="cloud" />
-            <div className='custom_container pt-5'>
+            <div className='custom_container py-5'>
                 <h3 className='ff_neue fs_46 fw-bold m-0 text-center text-white pt-md-5 mt-5'>Core Strategies</h3>
                 <p className='ff_raleway fs_16 fw-normal m-0 text-center text-white pt-4'>Our initial strategies use powerful burgeoning trends like Real Yield, Rebase, and others to generate <span className='d-md-block'>cutting-edged yield innovations. These yield strategies stretch beyond the drought in stable coins and set the value for</span> our native protocol token $EEFI. Check them out!'</p>
 

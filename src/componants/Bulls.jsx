@@ -3,7 +3,7 @@ import React from 'react'
 const Bulls = () => {
   return (
       <div>
-          <div className='bulls'>
+      <div className='bulls mt_300'>
               <div className='bg-ack text-center pb-md-5'>
                   <h2 className='ff_jakarta fs_52 fw-extrabold text-white pb-md-5 mb-md-5 m-0 pt-2'>Amplify and <span className='text-uppercase'>stretch gains</span></h2>
               </div>
